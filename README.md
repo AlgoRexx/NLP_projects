@@ -1,5 +1,5 @@
-# Projects done on NLP with Attention
-- <code> Chatbot </code>
+# Chatbot using T5
+
 ### Model :
 <img width="870" alt="Screenshot 2024-01-27 at 6 24 45 PM" src="https://github.com/AlgoRexx/text-_Summerizer/assets/146161841/c87fbc79-7fb9-4adf-832c-da03354b7cfd">
 
